@@ -1,0 +1,25 @@
+{
+  "name": "vue-composition-custom-hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tasynguyen3894/vue-composition-custom-hooks.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "peerDependencies": {
+    "vue": "^3x"
+  },
+  "author": "Tasy Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tasynguyen3894/vue-composition-custom-hooks/issues"
+  },
+  "homepage": "https://github.com/tasynguyen3894/vue-composition-custom-hooks#readme"
+}
